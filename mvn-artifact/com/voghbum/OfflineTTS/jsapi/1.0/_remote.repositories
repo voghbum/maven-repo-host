@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 24 22:24:09 TRT 2024
+jsapi-1.0.jar>=
+jsapi-1.0.pom>=
