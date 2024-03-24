@@ -1,0 +1,8 @@
+com\voghum\lib\service\exception\SpeechLibException.class
+com\voghum\lib\service\openai\OpenaiTtsApi.class
+com\voghum\lib\service\TextToSpeechAPI.class
+com\voghum\lib\service\google\GoogleTtsApi.class
+com\voghum\lib\service\TextToSpeechFactory$1.class
+com\voghum\lib\service\TTSType.class
+com\voghum\lib\service\offline\OfflineTtsApi.class
+com\voghum\lib\service\TextToSpeechFactory.class
